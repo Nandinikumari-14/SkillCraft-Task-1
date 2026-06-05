@@ -1,5 +1,6 @@
-<h3> SkillCraft Internship Task-1</h3>
-## Responsive Landing Page
+<h5> SkillCraft Internship Task-1</h5>
+
+# Responsive Landing Page
 
 A modern and fully responsive landing page built using HTML, CSS, and JavaScript. This project is designed to provide an attractive user interface that adapts seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
 
